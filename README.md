@@ -96,9 +96,9 @@ instead of aliases, so that pressing space shows the full command before executi
   * **`lo`**: `logs -f`
 * resources:
   * **`po`**=pod, **`dep`**=`deployment`, **`ing`**=`ingress`,
-    **`svc`**=`service`, **`cm`**=`configmap`, **`sec`**=`secret`,
-    **`ns`**=`namespace`, **`no`**=`node`
-    **:warning: Please do not suggest new resources here, instead fork the project.**
+  * **`svc`**=`service`, **`cm`**=`configmap`, **`sec`**=`secret`,
+  * **`ns`**=`namespace`, **`no`**=`node`
+  * **:warning: Please do not suggest new resources here, instead fork the project.**
 * flags:
   * output format: **`oyaml`**, **`ojson`**, **`owide`**
   * **`all`**: `--all` or `--all-namespaces` depending on the command
